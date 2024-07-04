@@ -1,0 +1,14 @@
+.text {
+  text-align: center;
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.isOnline {
+    color: green
+}
+
+.isOffline {
+    color: red;
+}
